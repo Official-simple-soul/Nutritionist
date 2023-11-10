@@ -4,7 +4,7 @@
 
 1. [Introduction](#introduction)
 2. [Features](#features)
-3. [TechnologiesUsed](#technologies used)
+3. [TechnologiesUsed](#technologiesused)
 4. [Installation](#installation)
 5. [contributors](#contributors)
 6. [CommunityContribution](#Communitycontribution)
@@ -22,9 +22,9 @@ This is a website developed by our team to provide users with valuable informati
 -*Appointment Booking*: Clients can book appointment with Nutritionists incase there are questions that needs to be answered as regards their health and wellness
 
 ## Technologies Used
--Frontend: HTML, CSS, CSSFramework(Bootstrap)
--Version Control: Git
--Libraries: Font awesome and Boxicon 
+-*Frontend*: HTML, CSS, CSSFramework(Bootstrap)
+-*Version Control*: Git
+-*Libraries*: Font awesome and Boxicon 
 
 ## Installation 
 1. Clone this repository to your local machine: `https://github.com/Official-simple-soul/Nutritionist.git`
