@@ -115,7 +115,7 @@ main .logo {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url("./images/Abstract\ Design\ \(2\).png");
+    background-image: url("../images/Abstract\ Design\ \(2\).png");
     background-position: center;
     height: 250px;
     width: 50%;
