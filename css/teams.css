@@ -304,8 +304,9 @@ footer {
     }
     .butn {
         width: 100%;
+        z-index: 100;
     }
     .butn a {
-        width: 300px;
+        padding: 17px 50px;
     }
 }
