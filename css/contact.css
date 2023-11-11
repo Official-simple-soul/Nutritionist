@@ -206,6 +206,14 @@ nav {
     flex-direction: column;
     gap: 1.5rem;
 }
+label {
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
 .row1 {
     display: flex;
     width: 100%;
