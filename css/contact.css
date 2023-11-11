@@ -110,9 +110,8 @@ nav {
         background-image: url("../images/Abstract\ Design\ \(2\).png");
         background-position: center;
         background-size: cover;
-        height: 80%;
+        height: 60%;
         width: 50%;
-        border: 3px solid black;
     }
     .firt {
         display: flex;
