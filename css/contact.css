@@ -244,6 +244,10 @@ textarea {
     height: 95.5px;
     margin-top: 10px;
 }
+.max {
+    display: flex;
+    justify-content: flex-end;
+}
 .locate {
     width: 50%;
     height: 100%;
