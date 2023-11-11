@@ -222,6 +222,10 @@ form {
     display: flex;
     justify-content: flex-end;
     width: 100%;
+    gap: 0.5rem;
+}
+.social img {
+    height: 50px;
 }
 .map {
     width: 100%;
