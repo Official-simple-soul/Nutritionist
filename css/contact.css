@@ -305,52 +305,20 @@ button {
     justify-self: flex-end;
     height: 370px;
 }
-.cta {
-    margin-top: 70px;
-    gap: 0;
-    height: 290px;
-    overflow: hidden;
-}
-.cta {
-    width: 80%;
-    background: linear-gradient(0deg, #E5F5BD, #E5F5BD),
-linear-gradient(0deg, #F7FCE9, #F7FCE9);
-    margin-top: 120px;
-    height: 330px;
-}
-.bod {
-    flex-direction: column;
+.butn a{
+    width: 20%;
+    background-color: #CBEA7B;
+    padding: 17px 20px;
+    text-decoration: none;
     text-align: center;
-    gap: 10px;
-}
-.tex,
-.butn {
-    width: 90%;
-}
-.tex {
-    padding-left: 10px;
-}
-.tex h1 {
-    font-size: 20px;
-    text-align: center;
-}
-.tex p {
-    font-size: 12px;
-    line-height: 17px;
-    text-align: center;
-}
-.zg img {
-    height: 50px;
-}
-.crc img  {
-    height: 60px;
-}
-.butn {
-    width: 100%;
-    z-index: 100;
-}
-.butn a {
-    padding: 17px 90px;
+    color: black;
+    border-radius: 6px;
+font-size: 14px;
+font-weight: 600;
+line-height: 21px;
+letter-spacing: 0em;
+text-align: left;
+
 }
 
 
