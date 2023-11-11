@@ -204,9 +204,7 @@ main .logo {
     text-align: center;
 }
 .cont {
-    width: 100%;
-    padding: 20px;
-    text-align: center;
+  flex-direction: column;
 }
 .cont p {
     font-size: 12px;
