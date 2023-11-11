@@ -195,11 +195,10 @@ nav {
     linear-gradient(0deg, #F7FCE9, #F7FCE9)
     ;
     width: 80%;
-    padding: 50px;
+    
     border:  1px solid #E5F5BD;
 }
 .form {
-    width: 50%;
     height: 100%;
     display: flex;
     flex-direction: column;
@@ -207,7 +206,7 @@ nav {
 }
 .row1 {
     display: flex;
-    width: 80%;
+    width: 100%;
     gap: 1rem;
 }
 .name {
