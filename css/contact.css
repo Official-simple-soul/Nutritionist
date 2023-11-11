@@ -370,7 +370,7 @@ main .logo {
 }
 .map {
     width: 100%;
-    height: 200px;
+    height: auto;
     border: 3px solid black;
 }
 }
