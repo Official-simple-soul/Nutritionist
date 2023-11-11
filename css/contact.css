@@ -93,7 +93,7 @@ nav {
     } 
     .first {
         width:80%;
-        height: 60%;
+        height: 70%;
         background: linear-gradient(0deg, #F7FCE9, #F7FCE9);
         border: 1px solid #E5F5BD;
         display: flex;
@@ -110,8 +110,9 @@ nav {
         background-image: url("../images/Abstract\ Design\ \(2\).png");
         background-position: center;
         background-size: cover;
-        height: 60%;
+        height: 80%;
         width: 50%;
+        border: 3px solid black;
     }
     .firt {
         display: flex;
@@ -133,7 +134,7 @@ nav {
         padding-bottom: 15px;
     }
     .first .text p {
-        font-size: 16px;
+        font-size: 14px;
         font-weight: 500;
         line-height: 27px;
         letter-spacing: 0em;
