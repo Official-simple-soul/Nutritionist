@@ -124,6 +124,21 @@ main .logo {
     text-align: center;
     width: 80%;
 }
+.first .text h1 {
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 72px;
+    letter-spacing: 0em;
+    text-align: center;
+    padding-bottom: 15px;
+}
+.first .text p {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: center;
+}
 .fir-sub {
     width: 80%;
     height: 100px;
