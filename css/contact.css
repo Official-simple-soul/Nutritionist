@@ -261,6 +261,10 @@ button {
     background: #CBEA7B;
     border: none;
     color: #262626;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 27px;
+    letter-spacing: 0em;
 }
 .locate {
     width: 50%;
