@@ -308,6 +308,7 @@ button {
 .cta {
     width: 80%;
 background-color: #F6FBE9;
+border: 1px solid #E5F5BD;
 
     margin-top: 120px;
     height: 330px;
