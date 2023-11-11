@@ -228,6 +228,7 @@ textarea {
     background: linear-gradient(0deg, #DCF1A7, #DCF1A7),
 linear-gradient(0deg, #EEF8D3, #EEF8D3);
 border: 1px solid #DCF1A7;
+padding: 15px;
 }
 .row1 input {
     width: 100%;
