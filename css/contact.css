@@ -198,7 +198,7 @@ nav {
     padding: 50px;
     border:  1px solid #E5F5BD;
 }
-form {
+.form {
     width: 50%;
     height: 100%;
     display: flex;
