@@ -262,6 +262,12 @@ text-align: left;
     text-align: center;
     color: black;
     border-radius: 6px;
+font-size: 12px;
+font-weight: 600;
+line-height: 21px;
+letter-spacing: 0em;
+text-align: left;
+
 }
 footer {
     height: 20vh;
