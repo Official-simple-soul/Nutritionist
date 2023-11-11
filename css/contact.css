@@ -356,10 +356,10 @@ main .logo {
     flex-direction: column;
     width: 100%;
 }
-.email input {
+.email  {
     width: 100%;
 }
-.name input {
+.name  {
     width: 100%;
 }
 }
