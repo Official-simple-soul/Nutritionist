@@ -208,6 +208,9 @@ form {
 .name {
     width: 50%;
 }
+.name input {
+    width: 100%;
+}
 .email {
     width: 50%;
 }
