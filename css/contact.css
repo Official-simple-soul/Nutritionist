@@ -185,9 +185,11 @@ nav {
 }
 .message {
     width: 50%;
+    height: 100%;
 }
 .locate {
     width: 50%;
+    height: 100%;
 }
 
 
