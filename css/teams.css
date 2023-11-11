@@ -214,6 +214,9 @@ main .logo {
     font-weight: 600;
     font-size: 18px;
 }
+.team.card .label .rol {
+    font-weight: 500;
+}
 .cta {
     width: 80%;
     background: linear-gradient(0deg, #E5F5BD, #E5F5BD),
