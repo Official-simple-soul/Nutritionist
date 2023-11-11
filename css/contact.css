@@ -348,4 +348,14 @@ main .logo {
 .cont p {
     font-size: 12px;
 }
+.message {
+    flex-direction: column;
+}
+.row1 {
+    flex-direction: column;
+}
+.name input,
+.email input {
+    width: 100%;
+}
 }
