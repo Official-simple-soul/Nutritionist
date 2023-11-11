@@ -350,7 +350,7 @@ main .logo {
 }
 .message {
     flex-direction: column;
-    padding: 10px;
+    padding: 20px;
 }
 .row1 {
     flex-direction: column;
