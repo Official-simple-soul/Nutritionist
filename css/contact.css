@@ -179,6 +179,16 @@ nav {
     text-align: center;
 
 }
+.message {
+    display: flex;
+    justify-content: space-between;
+}
+.message {
+    width: 50%;
+}
+.locate {
+    width: 50%;
+}
 
 
 
