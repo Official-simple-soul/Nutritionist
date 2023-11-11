@@ -156,8 +156,8 @@ nav {
 } 
 .box {
     background: linear-gradient(0deg, #234338, #234338), linear-gradient(0deg, #2C5446, #2C5446);
-    width: 290px;
-    height: 131px;
+    width: 250px;
+    height: 121px;
     border-radius: 8px;
     border: 1px solid #2C5446;
     display: flex;
@@ -165,6 +165,7 @@ nav {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    color: white;
 }
 
 
