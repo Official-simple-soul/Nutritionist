@@ -285,6 +285,7 @@ footer {
     }
     .first .text p {
         font-size: 12px;
+        line-height: normal;
     }
     main .logo {
         height: 130px;
