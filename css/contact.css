@@ -421,4 +421,44 @@ main .logo {
 .social img {
     height: 40px;
 }
+.cta {
+    margin-top: 70px;
+    gap: 0;
+    height: 290px;
+    overflow: hidden;
+}
+.bod {
+    flex-direction: column;
+    text-align: center;
+    gap: 10px;
+}
+.tex,
+.butn {
+    width: 90%;
+}
+.tex {
+    padding-left: 10px;
+}
+.tex h1 {
+    font-size: 20px;
+    text-align: center;
+}
+.tex p {
+    font-size: 12px;
+    line-height: 17px;
+    text-align: center;
+}
+.zg img {
+    height: 50px;
+}
+.crc img  {
+    height: 60px;
+}
+.butn {
+    width: 100%;
+    z-index: 100;
+}
+.butn a {
+    padding: 17px 90px;
+}
 }
