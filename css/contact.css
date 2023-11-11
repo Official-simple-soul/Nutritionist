@@ -159,7 +159,8 @@ nav {
 
 
 
-
+@media screen and (min-width: 300px) and (max-width: 405px)   {
+    
 .first .logo img {
     height: 60px;
 }
@@ -188,4 +189,5 @@ main .logo {
 }
 .cont p {
     font-size: 12px;
+}
 }
