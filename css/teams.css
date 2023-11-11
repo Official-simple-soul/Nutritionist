@@ -306,6 +306,9 @@ footer {
         padding: 20px;
         text-align: center;
     }
+    .cont p {
+        font-size: 12px;
+    }
     .fir-sub {
         gap: 0.2rem;
     }
