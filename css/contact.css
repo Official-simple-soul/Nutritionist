@@ -249,13 +249,12 @@ textarea {
     justify-content: flex-end;
 }
 .max p {
-    font-family: Urbanist;
-font-size: 14px;
-font-weight: 500;
-line-height: 18px;
-letter-spacing: 0em;
-text-align: right;
-
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: right;
+    color: #59595A;
 }
 .locate {
     width: 50%;
