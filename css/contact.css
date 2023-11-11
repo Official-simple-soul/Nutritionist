@@ -368,4 +368,7 @@ main .logo {
     justify-content: center;
     align-items: center;
 }
+.map {
+    width: 100%;
+}
 }
