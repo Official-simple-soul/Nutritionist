@@ -110,7 +110,7 @@ nav {
         background-image: url("../images/Abstract\ Design\ \(2\).png");
         background-position: center;
         background-size: cover;
-        height: 280px;
+        height: 60%;
         width: 50%;
     }
     .firt {
@@ -141,7 +141,7 @@ nav {
     }
     .fir-sub {
         width: 80%;
-        height: 40%;
+        height: 30%;
         background-color: #234338;
         border-radius: 0px 0px 10px 10px;
         display: flex;
