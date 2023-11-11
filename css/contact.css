@@ -457,6 +457,7 @@ main .logo {
 .tex h1 {
     font-size: 20px;
     text-align: center;
+    line-height: 33px;
 }
 .tex p {
     font-size: 12px;
