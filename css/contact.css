@@ -192,9 +192,8 @@ nav {
     display: flex;
     justify-content: space-between;
     background: linear-gradient(0deg, #E5F5BD, #E5F5BD),  linear-gradient(0deg, #F7FCE9, #F7FCE9);
-width: 80%;
-
-
+    width: 80%;
+    padding: 40px;
 }
 form {
     width: 50%;
