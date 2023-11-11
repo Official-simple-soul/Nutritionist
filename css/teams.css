@@ -279,7 +279,7 @@ footer {
 
 
 
-@media screen and (min-width: 300px) and (max-width: 405px) {
+@media screen and (min-width: 300px) and (max-width: 430px) {
     .first .logo img {
         height: 60px;
     }
