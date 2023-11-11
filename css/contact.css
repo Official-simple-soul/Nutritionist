@@ -156,6 +156,7 @@ nav {
     gap: 1rem;
     justify-content: center;
     align-items: center;
+    flex-wrap: wrap;
 } 
 .box {
     background: linear-gradient(0deg, #234338, #234338), linear-gradient(0deg, #2C5446, #2C5446);
