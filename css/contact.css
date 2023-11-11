@@ -183,10 +183,8 @@ nav {
 
 @media screen and (min-width: 300px) and (max-width: 405px)   {
 nav {
-    z-index: 1;
-}
-.firt {
-    z-index: 0;
+    height: 30vh;
+    margin-bottom: 100px;
 }
 .first .logo img {
     height: 60px;
