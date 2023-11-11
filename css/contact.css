@@ -112,6 +112,10 @@ nav {
         height: 250px;
         width: 50%;
     }
+    .firt {
+        display: flex;
+        justify-content: center;
+    }
     .first .text {
         text-align: center;
         width: 80%;
