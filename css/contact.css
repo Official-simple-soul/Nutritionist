@@ -130,7 +130,7 @@ nav {
         line-height: 72px;
         letter-spacing: 0em;
         text-align: center;
-        padding-bottom: 15px;
+        padding-bottom: 10px;
     }
     .first .text p {
         font-size: 14px;
@@ -138,6 +138,7 @@ nav {
         line-height: 27px;
         letter-spacing: 0em;
         text-align: center;
+        padding-bottom: 20px;
     }
     .fir-sub {
         width: 80%;
