@@ -312,6 +312,7 @@ border: 1px solid #E5F5BD;
 border-radius: 10px;
     margin-top: 120px;
     height: 330px;
+    overflow: hidden;
 }
 .crc {
     display: flex;
