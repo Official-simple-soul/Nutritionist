@@ -191,6 +191,11 @@ nav {
     width: 50%;
     height: 100%;
 }
+.social {
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+}
 
 
 
