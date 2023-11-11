@@ -222,6 +222,8 @@ form {
 }
 .map {
     height: 50px;
+    display: flex;
+    align-self: flex-end;
 }
 
 
