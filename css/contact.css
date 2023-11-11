@@ -208,6 +208,7 @@ main .logo {
 }
 .cont {
   flex-direction: column;
+  padding: 20px 0;
 }
 .cont p {
     font-size: 12px;
