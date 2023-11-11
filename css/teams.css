@@ -302,4 +302,7 @@ footer {
     .crc img  {
         height: 60px;
     }
+    .btn a {
+        width: 80%;
+    }
 }
