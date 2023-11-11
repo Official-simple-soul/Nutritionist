@@ -258,6 +258,7 @@ textarea {
 }
 button {
     border-radius: 8px;
+    padding: 10px 0;
 }
 .locate {
     width: 50%;
