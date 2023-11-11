@@ -205,6 +205,7 @@ main .logo {
 }
 .cont {
   flex-direction: column;
+  height: auto;
 }
 .cont p {
     font-size: 12px;
