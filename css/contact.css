@@ -354,8 +354,10 @@ main .logo {
 .row1 {
     flex-direction: column;
 }
-.name input,
 .email input {
+    width: 100%;
+}
+.name input {
     width: 100%;
 }
 }
