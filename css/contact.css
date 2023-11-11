@@ -199,7 +199,7 @@ nav {
     border:  1px solid #E5F5BD;
 }
 .form {
-    width: 50%;
+    width: 100%;
     height: 100%;
     display: flex;
     flex-direction: column;
