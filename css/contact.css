@@ -241,7 +241,8 @@ textarea {
     width: 100%;
     border-radius: 8px;
     border: none ;
-    height: 67.5px;
+    height: 97.5px;
+    margin-top: 10px;
 }
 .locate {
     width: 50%;
