@@ -220,6 +220,9 @@ linear-gradient(0deg, #F7FCE9, #F7FCE9);
 .tex p {
     font-size: 13px;
 }
+.butn {
+    width: 100%;
+}
 .butn a{
     width: 20%;
     background-color: #CBEA7B;
@@ -302,7 +305,7 @@ footer {
     .crc img  {
         height: 60px;
     }
-    .btn a {
+    .butn a {
         width: 80%;
     }
 }
