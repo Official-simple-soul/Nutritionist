@@ -202,6 +202,10 @@ form {
     display: flex;
     flex-direction: column;
 }
+.row1 {
+    display: flex;
+    width: 80%;
+}
 .locate {
     width: 50%;
     height: 100%;
