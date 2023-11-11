@@ -109,7 +109,8 @@ nav {
         justify-content: center;
         background-image: url("../images/Abstract\ Design\ \(2\).png");
         background-position: center;
-        height: 250px;
+        background-size: cover;
+        height: 280px;
         width: 50%;
     }
     .firt {
