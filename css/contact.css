@@ -148,7 +148,9 @@ nav {
         justify-content: center;
         align-items: center;
     }
-    
+.cont {
+    display: flex;
+} 
 .box {
     background: linear-gradient(0deg, #234338, #234338), linear-gradient(0deg, #2C5446, #2C5446);
     width: 305px;
