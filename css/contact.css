@@ -367,6 +367,7 @@ main .logo {
     gap: 0.5rem;
     justify-content: center;
     align-items: center;
+    width: 90%;
 }
 .map {
     width: 100%;
