@@ -221,7 +221,7 @@ button {
     background: linear-gradient(0deg, #DCF1A7, #DCF1A7),
 linear-gradient(0deg, #EEF8D3, #EEF8D3);
 border: 1px solid #DCF1A7;
-
+border: 1px solid #DCF1A7;
 }
 .row1 input {
     width: 100%;
@@ -242,6 +242,7 @@ border: 1px solid #DCF1A7;
 textarea {
     width: 100%;
     border-radius: 8px;
+    border: ;
 }
 .locate {
     width: 50%;
