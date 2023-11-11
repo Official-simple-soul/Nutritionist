@@ -117,6 +117,7 @@ nav {
         justify-content: center;
         align-items: center;
         flex-direction: column;
+        height: 100vh;
     }
     .first .text {
         text-align: center;
