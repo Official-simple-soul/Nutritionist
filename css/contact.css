@@ -183,7 +183,7 @@ nav {
     display: flex;
     justify-content: space-between;
 }
-.message {
+form {
     width: 50%;
     height: 100%;
 }
