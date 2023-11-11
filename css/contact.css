@@ -190,7 +190,7 @@ nav {
 }
 .message {
     display: flex;
-    gap: 0.5rem;
+    justify-content: space-between;
     background-color: linear-gradient(0deg, #E5F5BD, #E5F5BD),
     linear-gradient(0deg, #F7FCE9, #F7FCE9)
     ;
