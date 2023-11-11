@@ -215,8 +215,7 @@ nav {
     width: 50%;
 }
 input,
-textarea,
-button {
+textarea {
     background: linear-gradient(0deg, #DCF1A7, #DCF1A7),
 linear-gradient(0deg, #EEF8D3, #EEF8D3);
 border: 1px solid #DCF1A7;
@@ -259,7 +258,8 @@ textarea {
 button {
     border-radius: 8px;
     padding: 15px 0;
-    background-color: #CBEA7B;
+    background: #CBEA7B;
+    border: none;
 }
 .locate {
     width: 50%;
