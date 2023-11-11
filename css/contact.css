@@ -362,4 +362,9 @@ main .logo {
 .name  {
     width: 100%;
 }
+.locate {
+    gap: 0.5rem;
+    justify-content: center;
+    align-items: center;
+}
 }
