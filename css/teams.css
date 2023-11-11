@@ -336,6 +336,10 @@ footer {
     .tex h1 {
         font-size: 20px;
     }
+    .tex p {
+        font-size: 10px;
+        line-height: 0.5px;
+    }
     .zg img {
         height: 50px;
     }
