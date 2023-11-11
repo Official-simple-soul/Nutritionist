@@ -148,3 +148,40 @@ nav {
         align-items: center;
     }
     
+.box {
+    background: linear-gradient(0deg, #234338, #234338), linear-gradient(0deg, #2C5446, #2C5446);
+
+}
+
+
+
+
+.first .logo img {
+    height: 60px;
+}
+.first .text p {
+    font-size: 12px;
+    line-height: 21px;
+}
+main .logo {
+    height: 130px;
+    margin-top: 0;
+    padding: 0;
+}
+.first .text {
+    width: 90%;
+}
+.first .text h1 {
+    font-size: 26px;
+    padding-bottom: 10px;
+    line-height: 42px;
+    text-align: center;
+}
+.cont {
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+}
+.cont p {
+    font-size: 12px;
+}
