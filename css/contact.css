@@ -203,9 +203,11 @@ main .logo {
     line-height: 42px;
     text-align: center;
 }
+.fir-sub {
+    height: auto;
+}
 .cont {
   flex-direction: column;
-  height: auto;
 }
 .cont p {
     font-size: 12px;
