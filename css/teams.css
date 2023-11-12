@@ -444,16 +444,3 @@ footer {
     justify-content: fl;
     align-items: self-end;
 }
-/* .hr{
-    color: #cbea7b;
-    font-weight: bolder;
-    font-size: 10px;
-} */
-
-
-
-.global-p-10{
-    font-size: 10px !important;
-    padding-top: 10px !important;
-    padding-left: 2px !important;
-}
