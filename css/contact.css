@@ -450,14 +450,6 @@ text-align: left;
     display: flex !important;
 }
 
-
-
-
-@media screen and (min-width: 300px) and (max-width: 405px)   {
-nav {
-    margin-bottom: 100px;
-}
-}
 .firt {
     height: auto;
 }
@@ -585,6 +577,14 @@ header {
   header .bottomnav ul li a {
     font-size: 14px;
   }
+
+
+
+@media screen and (min-width: 300px) and (max-width: 405px)   {
+nav {
+    margin-bottom: 100px;
+}
+}
 
 
 
