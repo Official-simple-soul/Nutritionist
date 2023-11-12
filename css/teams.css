@@ -1,3 +1,4 @@
+@import url("./about.css");
 * {
     margin: 0;
     padding: 0;
@@ -226,6 +227,7 @@ main .logo {
 linear-gradient(0deg, #F7FCE9, #F7FCE9);
     margin-top: 120px;
     height: 330px;
+    margin-bottom: 100px;
 }
 .crc {
     display: flex;
