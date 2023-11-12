@@ -446,6 +446,9 @@ text-align: left;
     padding-top: 10px !important;
     padding-left: 2px !important;
 }
+.lept {
+    display: flex !important;
+}
 
 
 
