@@ -50,6 +50,9 @@
     width: 100%;
     margin: auto;
 }
+.pri-text-col{
+    color: #cbea7b !important;
+}
 .btn{
     background-color: #cbea7b !important;
 }
