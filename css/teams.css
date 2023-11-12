@@ -23,6 +23,9 @@ header {
   .pri-text-col {
     color: #1a3129;
   }
+  .foot {
+    margin-top: 100px;
+  }
   
   .sec-text-col {
     color: #234338;
