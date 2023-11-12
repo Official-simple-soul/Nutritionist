@@ -115,3 +115,38 @@
 body {
     overflow-x: hidden;
 }
+@media screen and (max-width: 426px) {
+    .top-nav-text {
+      font-size: 12px;
+    }
+  header {
+    margin: 0;
+  }
+    .top-nav-text .arrow {
+      padding-bottom: 10px;
+    }
+  
+    .top-bar {
+      position: relative;
+      top: 0;
+      left: 0;
+      padding-top: 25px;
+    }
+  
+    .top-nav-mobile #left-image-dup {
+      position: absolute;
+      bottom: -1%;
+      left: -19%;
+      z-index: -1;
+      width: 35%;
+    }
+  
+    .top-nav-mobile #right-image-dup {
+      position: absolute;
+      bottom: -1%;
+      right: -19%;
+      z-index: -1;
+      width: 35%;
+    }
+  }
+ 
