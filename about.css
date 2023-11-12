@@ -60,7 +60,7 @@
     background-color: #f6fbe9;
 }
 .abt-company-height{
-    height: 30vh !important;
+    height: auto !important;
 }
 .border-right{
     border-right: 3px solid #cbea7b;
@@ -72,12 +72,9 @@
     width: 80%;
     border-bottom: #cbea7b 4px solid;
 }
-.wl{
+.w1{
     width: 80%;
     border-bottom: #cbea7b 4px solid;
-    display: flex;
-    justify-content: fl;
-    align-items: self-end;
 }
 /* .hr{
     color: #cbea7b;
