@@ -4,108 +4,56 @@
     box-sizing: border-box;
     font-family: 'Urbanist', sans-serif;
 }
+ .bottomnav {
+    background-color: #1a3129;
+ }
 
-nav {
-    width: 100%;
-    height:23vh;
-    background: linear-gradient(0deg, #1A3129, #1A3129), linear-gradient(0deg, #EEF8D3, #EEF8D3);
+.pri-bg-col {
+    background-color: #1a3129;
 }
 
-.realnav {
-    width: 100%;
-    height: 50%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+.sec-bg-col {
+    background-color: #234338;
 }
 
-.div2 {
-    width: 100%;
-    height: 50%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+.ter-bg-col {
+    background-color: #cbea7b;
 }
 
-.div3 {
-    background: linear-gradient(0deg, #234338, #234338), linear-gradient(0deg, #2C5446, #2C5446);
-    width:80%;
-    height:37px;
-    border: 1px solid #2C5446;
-    border-radius: 6px;
-    display: flex;
-    justify-content: space-between;
+.pri-text-col {
+    color: #1a3129;
 }
 
-.txt {
-    display: flex;
-    height: 100%;
-    justify-content: center;
-    align-items: center;
-    gap: 0.5rem;
+.sec-text-col {
+    color: #234338;
 }
 
-.ic, .arow {
-    height:20px;
-} 
-
-.arow {
-    padding-left: 20px;
-    height: 10px;
+.ter-text-col {
+    color: #cbea7b;
+}
+header {
+    position:fixed;
+    top: 0;
+    z-index: 1;
 }
 
-.zig img {
-    height: 35px;
-    padding-left: 20px;
+header .topnav {
+    border: 2px solid #2c5446;
 }
 
-.zag img {
-    height: 35px;
-    padding-right: 20px;
+header .container-fluid {
+    border-top: 2px solid #234338;
 }
 
-.txt p {
-    color: #FFFFFF;
-    line-height: 21.6px;
-    font-size: 16px;
-    padding-top: 13px;
+header .bottomnav ul li a {
+    font-size: 14px;
+
+}
+.custom-toggler .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml, %3csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30 viewBox='0 0 30 30'%3e%3cpath stroke='rgba(203, 234, 123, 1)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4' 7h22M4 23h22'/%3e%3c/svg%3e");
 }
 
-.nav2 {
-    width: 100%;
-    height: 50%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.realnav {
-    width: 80%;
-    height: 100%;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-.nav-links ul {
-    display: flex;
-    list-style: none;
-    gap: 1rem;
-}
-
-.nav-links ul li a {
-    text-decoration: none;
-    color: white;
-    font-size: 12px;
-}
-
-.nav-links ul li .nav-btn {
-    padding: 15px 20px;
-    border-radius: 8px;
-    background-color: #CBEA7B;
-    color: black;
-}
-.container-sm {
+.container-sma {
     height: 100vh;
     background-image: radial-gradient(circle, #CBEA7B, rgba(203, 234, 123, 0)) , url(./images/Abstract\ Design.png);
     background-position: center;
@@ -128,7 +76,44 @@ nav {
 
 /* Responsiveness for mobile view*/
  
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 768px) {
+    .responsive-container {
+        position:absolute;
+        top: 10%;
+        right:-7%;
+        width: 100vw;
+    }
+
+    .top-nav-text {
+        font-size: 12px;
+    }
+
+    .top-nav-text .arrow {
+        padding-bottom: 10px;
+    }
+
+    .top-bar {
+        position:relative;
+        top: 0;
+        left: 0;
+        padding-top:25px;
+    }
+
+    .top-nav-mobile #left-image-dup {
+        position:absolute;
+        bottom: -1%;
+        left: -19%;
+        z-index: -1;
+        width: 35%;
+    }
+
+    .top-nav-mobile #right-image-dup {
+        position: absolute;
+        bottom: -1%;
+        right: -19%;
+        z-index: -1;
+        width: 35%;
+    }
 
     .cont-row {
         width:100vw;
@@ -173,12 +158,49 @@ nav {
     .pee {
         font-size: 10px;
     }
+    .container {
+        margin-top: -15%;
+    }
+    .container-2 {
+        margin-top: 5%;
+    }
 }
 
 
 /* Responsiveness for tablet view*/
 
 @media screen and (min-width: 768px) and (max-width: 991px) {
+
+    .header-container {
+        height: 15vh;
+    }
+    .bottomnav {
+        position: absolute;
+        top: 50%;
+        left: 0;
+        width: 100vw;
+    }
+    .top-bar {
+        position: relative;
+        top: 0;
+        left: 0;
+        padding-top:25px;
+    }
+    .top-nav-mobile #left-image-dup {
+        position: absolute;
+        bottom: -1%;
+        left: -19%;
+        z-index: -1;
+        width: 35%;
+    }
+
+    .top-nav-mobile #right-image-dup {
+        position: absolute;
+        bottom: -1%;
+        right: -19%;
+        z-index: -1;
+        width: 35%;
+    }
 
     .cont-row {
         width: 100vw;
@@ -187,6 +209,10 @@ nav {
     }
     .container-sm {
         height: 70vh;
+    }
+    .container-tablet {
+        height: 80vh;
+        margin-top: -15%;
     }
     .imag {
         width: 90%;
@@ -212,4 +238,5 @@ nav {
     .sub-topic {
         font-size: 20px;
     }
+
 }
