@@ -81,7 +81,10 @@
       width: 35%;
     }
   }
-
+  html,
+  body {
+    overflow-x: hidden;
+  }
 main {
     display: flex;
     justify-content: center;
