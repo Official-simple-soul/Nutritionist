@@ -4,6 +4,9 @@
     box-sizing: border-box;
     font-family: "Urbanist", sans-serif;
 }
+header {
+    z-index: 2000;
+}
 .pri-bg-col {
     background-color: #1a3129;
   }
