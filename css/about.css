@@ -3,7 +3,9 @@
     margin: 0;
     padding: 0; 
 }
-
+.foot {
+    margin-top: 100px;
+}
 .abt-img{
     background-image: url(./img/Image\ \(10\).png);
     background-repeat: no-repeat;
