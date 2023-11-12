@@ -1,3 +1,4 @@
+@import url("./about.css");
 *{
     padding: 0;
     margin: 0;
@@ -107,5 +108,7 @@
     width: 35%;
     border-bottom: 2px solid #CBEA7B;
 }
-
+.foot {
+    margin-top: 100px;
+}
 
