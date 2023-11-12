@@ -6,6 +6,7 @@
   }
   body {
     overflow-x: hidden;
+    font-family: "Urbanist" Arial, Helvetica, sans-serif;
   }
   
  .pri-bg-col {
@@ -125,6 +126,7 @@
      top: 40px;
      color: #45846f;
 }
+<<<<<<< HEAD
 =======
 @import url("./about.css");
 *{
@@ -241,3 +243,58 @@
 }
 
 >>>>>>> develop
+=======
+
+/* footer css */
+.abt-bg-footer1{
+    background-color: #1a3129 ;
+}
+.abt-bg-footer2{
+    background-color: #234338;
+} 
+.abt-ancor a{
+    text-decoration: none;
+    padding: 5px;
+    color: #fff;
+    font-size: 10px;
+}
+.abt-border{
+    border: 1px solid rgb(85, 83, 83);
+    width: 100%;
+    margin: auto;
+}
+.pri-text-col{
+    color: #cbea7b !important;
+}
+.btn{
+    background-color: #cbea7b !important;
+}
+.abt-bg{
+    background-color: #f6fbe9;
+}
+.abt-company-height{
+    height: auto !important;
+}
+.border-right{
+    border-right: 3px solid #cbea7b;
+}
+.border-left{
+    border-left: 3px solid #cbea7b;
+}
+.w{
+    width: 80%;
+    border-bottom: #cbea7b 4px solid;
+}
+.w1{
+    width: 80%;
+    border-bottom: #cbea7b 4px solid;
+}
+
+
+
+.global-p-10{
+    font-size: 15px !important;
+    padding-top: 10px !important;
+    padding-left: 2px !important;
+}
+>>>>>>> 51e9fffbae471027e8766a739c2d81812a2dac36
