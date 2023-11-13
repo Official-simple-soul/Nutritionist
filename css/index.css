@@ -9,6 +9,10 @@
 .inv {
     overflow: hidden;
 }
+header {
+    z-index: 1000;
+    margin-bottom: 300px !important;
+}
 #hero {
     margin-top: 200px;
   }
