@@ -126,8 +126,7 @@
      top: 40px;
      color: #45846f;
 }
-<<<<<<< HEAD
-=======
+
 @import url("./about.css");
 *{
     padding: 0;
@@ -242,8 +241,7 @@
     margin-top: 100px;
 }
 
->>>>>>> develop
-=======
+
 
 /* footer css */
 .abt-bg-footer1{
@@ -297,4 +295,3 @@
     padding-top: 10px !important;
     padding-left: 2px !important;
 }
->>>>>>> 51e9fffbae471027e8766a739c2d81812a2dac36
