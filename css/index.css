@@ -11,10 +11,10 @@
 }
 header {
     z-index: 1000;
-    margin-bottom: 300px !important;
+    margin-bottom: 600px !important;
 }
 #hero {
-    margin-top: 200px;
+    margin-top: 600px !important;
   }
 /* global styling */
 .header-color {
