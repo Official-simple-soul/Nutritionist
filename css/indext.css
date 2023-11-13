@@ -8,7 +8,9 @@
   body {
     overflow-x: hidden;
   }
-  
+  header {
+    margin-bottom: 300px !important;
+  }
   .pri-bg-col {
     background-color: #1a3129;
   }
