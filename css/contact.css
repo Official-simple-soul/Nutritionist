@@ -423,7 +423,6 @@ text-align: left;
     }
     header {
         overflow-y: hidden;
-        border: 3px solid yellow;
         height: 27vh;
     }
     .firt {
