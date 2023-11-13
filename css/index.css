@@ -121,6 +121,9 @@ header {
 .foot {
     margin-top: 100px;
 }
+.bush {
+    color: orangered;
+}
 
 body {
     overflow-x: hidden;
