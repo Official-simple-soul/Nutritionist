@@ -8,19 +8,19 @@
   }
   
  .pri-bg-col {
-    background-color: #1a3129;
+    background-color: #1a3129 !important;
   }
   
   .sec-bg-col {
-    background-color: #234338;
+    background-color: #234338 !important;
   }
   
   .ter-bg-col {
-    background-color: #cbea7b;
+    background-color: #cbea7b !important;
   }
   
   .pri-text-col {
-    color: #1a3129;
+    color: #1a3129 !important;
   }
   
   .sec-text-col {
@@ -28,12 +28,13 @@
   }
   
   .ter-text-col {
-    color: #cbea7b;
+    color: #cbea7b !important;
   }
   
   header {
     position: fixed;
     top: 0;
+    background-color: #234338 !important;
   }
   
   header .topnav {
