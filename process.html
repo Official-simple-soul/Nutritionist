@@ -146,7 +146,7 @@
                 </li>
               </ul>
               <form class="d-flex mx-2" role="search">
-                <button class="btn ter-bg-col text-dark" type="submit" href="./contact.html">
+                <button class="btn ter-bg-col text-dark" type="submit" id="redirectButton">
                   Contact Us
                 </button>
               </form>
@@ -431,7 +431,17 @@
 
 
 
+  <!-- JavaScript to Handle Button Click -->
+  <script>
+    // Get the button element by its ID
+    const redirectButton = document.getElementById('redirectButton');
 
+    // Add a click event listener to the button
+    redirectButton.addEventListener('click', function() {
+        // Redirect to another page within the project
+        window.location.href = './contact.html';
+    });
+</script>
     
     <!-- swiper js script -->
     <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
