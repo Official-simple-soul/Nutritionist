@@ -7,7 +7,9 @@
  .bottomnav {
     background-color: #1a3129;
  }
-
+ .curr:hover {
+    color: #cbea7b;
+  }
 .pri-bg-col {
     background-color: #1a3129;
 }

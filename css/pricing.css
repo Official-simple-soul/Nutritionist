@@ -8,7 +8,9 @@
     font-weight: 500;
   }
 
-  
+  .curr:hover {
+    color: #cbea7b;
+  }
   
   /* My section */
    

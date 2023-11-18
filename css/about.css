@@ -6,6 +6,9 @@
 .foot {
     margin-top: 100px;
 }
+.curr:hover {
+    color: #cbea7b;
+  }
 .abt-img{
     background-image: url(./img/Image\ \(10\).png);
     background-repeat: no-repeat;

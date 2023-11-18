@@ -7,6 +7,9 @@ header {
     z-index: 2000;
     margin: 0;
 }
+.curr:hover {
+    color: #cbea7b;
+  }
 .pri-bg-col {
     background-color: #1a3129;
   }
