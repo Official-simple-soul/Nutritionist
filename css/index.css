@@ -10,7 +10,8 @@
     overflow: hidden;
 }
 .u {
-    border-bottom: 1px solid green;
+    border-bottom: 1px solid #1A3129;
+    padding-bottom: 5px;
     width: 210px;
     background-color: white;
 }
