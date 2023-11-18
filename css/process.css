@@ -13,6 +13,9 @@
   .curr:hover {
     color: #cbea7b;
   }
+  .curr {
+    color: #cbea7b;
+  }
   .sec-bg-col {
     background-color: #234338 !important;
   }
