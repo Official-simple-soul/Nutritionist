@@ -9,6 +9,11 @@
 .inv {
     overflow: hidden;
 }
+.u {
+    border-bottom: 1px solid green;
+    width: 210px;
+    background-color: white;
+}
 header {
     z-index: 1000;
     margin-bottom: 600px !important;
