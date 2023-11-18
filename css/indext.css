@@ -35,7 +35,9 @@
   .ter-text-col {
     color: #cbea7b;
   }
-  
+  .curr:hover {
+    color: #cbea7b;
+  }
   header {
     position: fixed;
     top: 0;
