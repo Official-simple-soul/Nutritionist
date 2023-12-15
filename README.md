@@ -1,9 +1,9 @@
 # Nutritionist Group Project
 
-##Table of Contents
+## Table of Contents
 1. [Introduction](#introduction)
 2. [Features](#features)
-3. [TechnologiesUsed](#technologies used)
+3. [TechnologiesUsed](#technologiesused)
 4. [Installation](#installation)
 5. [contributors](#contributors)
 6. [CommunityContribution](#Communitycontribution)
@@ -11,7 +11,7 @@
 
 ## Introduction
 Welcome to the Nutritionist Website Project!!
-This is a website developed by our team to provide users with valuable information and tools to maintain a healthy lifestyle through proper nutrition. Whether you are looking for dietary advice, meal planning, or nutritional resources, our website has you covered
+This is a website developed by our team to provide users with valuable informations and tools to maintain a healthy lifestyle through proper nutrition. Whether you are looking for dietary advice, meal planning, or nutritional resources, our website has you covered
 
 
 ## Feature
